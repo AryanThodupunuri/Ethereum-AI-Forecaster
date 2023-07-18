@@ -1,4 +1,4 @@
-# Ethereum AI forecaster
+# Ethereum AI price forecaster
 
 #Description
 This project utilizes Python scripts, Jupyter notebook, pandas, and yfinance. It employs the yfinance library to extract Ethereum data from Yahoo Finance, showcasing its current price from 2018 to the present date. The code performs an analysis on the Ethereum price chart, plotting its current value and utilizing machine learning to predict future movements, visualized with black dots. There are definitely some improvement areas I want to look at. For example, I want to find a way to incorporate technical indicators like Moving Averages, RSI, MACD, etc., alongside the LSTM model for a more comprehensive analysis of Ethereum's price trends and potential improvements in predictive accuracy."
